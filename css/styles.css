@@ -9,6 +9,7 @@ body {
   .header {
 }
 .header-navigation {
+    
 }
 .header-logo {
     color: var(--NAVY-BLUE, #4d5ae5);
@@ -31,7 +32,9 @@ text-transform: uppercase;
 text-decoration: none;
 }
 .header-menu {
+    
 }
+
 .header-menu-item{
 
 }
@@ -222,6 +225,8 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+text-decoration: none;
+
 
 }
 .footer-info {
